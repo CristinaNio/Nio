@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Volleyballs>
+  <Volleyball id="1" sex="female">
+    <name> Екатерина Александровна Гамова  </name>
+    <Nationality>Россия</Nationality>
+    <height unit="cm">202</height>
+    <dob>
+      <day>17</day>
+      <month>октября</month>
+      <year>1980</year>
+    </dob>
+  </Volleyball>
+
+  <Volleyball id="2" sex="female">
+    <name> Гончарова (Обмочаева) Наталия Олеговна </name>
+    <Nationality>Украина->Россия</Nationality>
+    <height unit="cm">189</height>
+    <dob>
+      <day>1</day>
+      <month>июня</month>
+      <year>1989</year>
+    </dob>
+  </Volleyball>
+
+</Volleyballs>

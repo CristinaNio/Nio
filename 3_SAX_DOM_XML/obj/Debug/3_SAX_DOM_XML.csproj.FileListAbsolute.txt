@@ -1,0 +1,6 @@
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\3_SAX_DOM_XML\3_SAX_DOM_XML\bin\Debug\3_SAX_DOM_XML.exe.config
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\3_SAX_DOM_XML\3_SAX_DOM_XML\bin\Debug\3_SAX_DOM_XML.exe
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\3_SAX_DOM_XML\3_SAX_DOM_XML\bin\Debug\3_SAX_DOM_XML.pdb
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\3_SAX_DOM_XML\3_SAX_DOM_XML\obj\Debug\3_SAX_DOM_XML.csprojResolveAssemblyReference.cache
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\3_SAX_DOM_XML\3_SAX_DOM_XML\obj\Debug\3_SAX_DOM_XML.exe
+C:\Users\Кристина\Documents\Visual Studio 2013\Projects\3_SAX_DOM_XML\3_SAX_DOM_XML\obj\Debug\3_SAX_DOM_XML.pdb
